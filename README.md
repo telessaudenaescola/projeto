@@ -4,7 +4,7 @@
 
 Este é o repositório do projeto do **Telessaúde na Escola** desenvolvido na Escola Estadual Antônio Guimarães Balbino e financiado pela [FAPEMAT](http://www.fapemat.mt.gov.br/-/19019021-regulamento-das-bolsas-pesquisa-e-inovacao-na-escola-bpie).
 
-<img src="https://github.com/telessaudenaescola/projeto/blob/main/fapemat.png">
+<img src="https://github.com/telessaudenaescola/projeto/blob/main/imagem/fapemat.png">
 
 ### Resumo do Projeto
 
